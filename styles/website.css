@@ -1,0 +1,13 @@
+.markdown-section p {
+    font-size: 22px;
+}
+
+.accordionTitle,
+.markdown-section table td,
+.markdown-section table th {
+    font-size: 16px;
+}
+
+.page-inner {
+    max-width: 1080px;
+}

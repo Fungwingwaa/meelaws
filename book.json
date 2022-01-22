@@ -1,0 +1,29 @@
+{
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-pro",
+        "expandable-chapters",
+        "chapter-fold",
+        "splitter",
+        "-page-treeview",
+        "anchor-navigation-ex",
+        "back-to-top-button",
+        "accordion",
+        "advanced-emoji"
+    ],
+    "pluginsConfig": {
+        "page-treeview": {
+            "copyright": "Copyright &#169; aleen42",
+            "minHeaderCount": "2",
+            "minHeaderDeep": "2"
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false,
+            "showGoTop": false
+        }
+    },
+    "styles": {
+        "website": "styles/website.css"
+    }
+}
